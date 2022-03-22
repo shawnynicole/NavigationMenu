@@ -2,11 +2,9 @@
 
 **NavigationMenu** makes ease of creating fully customizable navigation menus for navigating multiple views.
 
-/*
 <p align="center">
 <img src="../assets/gif1.png?raw=true" alt="Screenshot" width="300" />
 </p>
-*/
 
 <p align="center">
     <a href="#requirements">Requirements</a> • <a href="#usage">Usage</a> • <a href="#installation">Installation</a> • <a href="#author">Author</a> • <a href="#license-mit">License</a>
