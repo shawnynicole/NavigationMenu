@@ -3,7 +3,7 @@
 **NavigationMenu** makes ease of creating fully customizable navigation menus for navigating multiple views.
 
 <p align="center">
-<img src="../assets/gif1.png?raw=true" alt="Screenshot" width="300" />
+<img src="../assets/gif1.gif?raw=true" alt="Screenshot" width="300" />
 </p>
 
 <p align="center">
